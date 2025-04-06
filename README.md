@@ -8,4 +8,4 @@ If you encounter any issues, please follow the guides on the R2modman or Thunder
 [Changelog](https://thunderstore.io/c/repo/p/NerdsDev/REPO_NERD/changelog/)  
   
   
-Last Update 4.6.2025
+> Last Update 4.6.2025
