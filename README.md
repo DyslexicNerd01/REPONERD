@@ -1,7 +1,7 @@
 # **REPO NERD Modpack**
 ## The modpack made for larger parties!
 
-# Current Version: 1.2.2  
+## Current Version: 1.2.2  
 To Install, Download [R2modman](https://thunderstore.io/package/ebkr/r2modman/) or [Thunderstore.io](https://www.overwolf.com/app/thunderstore-thunderstore_mod_manager) and search for *REPO NERD* under the Online Section.  
 [Changelog](https://thunderstore.io/c/repo/p/NerdsDev/REPO_NERD/changelog/)  
 Last Update 4.6.2025
