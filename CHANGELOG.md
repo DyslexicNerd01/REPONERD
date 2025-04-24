@@ -1,5 +1,10 @@
 # **CHANGELOG**
 
+ > Version 1.3.2
+
+ - Updated R2ModMan
+ - Updated Menulib
+
  > Version 1.3.1
   
  - Added Cosmetics
