@@ -1,5 +1,15 @@
 # **CHANGELOG**
 
+ > Version 1.3.3
+
+ - Updated MoreHeads
+ - Added MoreHeadUtilities
+ - Added MoreHeadPlus
+ - Added BensCosmetics
+ - Updated MenuLib
+ - Updated DeathHeadHopper
+ - Updated RepoConfig
+
  > Version 1.3.2
 
  - Updated R2ModMan
