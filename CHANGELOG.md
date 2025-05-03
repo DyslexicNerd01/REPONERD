@@ -1,5 +1,13 @@
 # **CHANGELOG**
 
+ > Version 1.3.4
+
+ - Updated MoreHeads to 1.4.0
+ - Updated MenuLib to 2.4.1
+ - Update DeathHeadHopper to 2.1.3
+ - Updated REPOConfig to 1.2.2
+ - Updated REPOLib to 2.1.0
+
  > Version 1.3.3
 
  - Updated MoreHeads
