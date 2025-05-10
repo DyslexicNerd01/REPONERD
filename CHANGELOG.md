@@ -1,5 +1,14 @@
 # **CHANGELOG**
 
+ > Version 1.3.5
+
+ - Updated BetterTruckHeals to 2.2.1
+ - Updated MoreHead to 1.4.1
+ - Updated MoreHead Utilities to 1.0.7
+ - Updated DeadTTS to 1.0.12
+ - Updated HeathHeadHopper to 2.1.4
+ - Updated MorePlayers to 1.0.5
+
  > Version 1.3.4
 
  - Updated MoreHeads to 1.4.0
