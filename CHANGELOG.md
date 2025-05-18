@@ -1,5 +1,10 @@
 # **CHANGELOG**
 
+ > Version 1.3.6
+
+ - Updated DeathHopper to 2.1.5
+ - Replaced MorePlayers with MorePlayersImproved
+ 
  > Version 1.3.5
 
  - Updated BetterTruckHeals to 2.2.1
