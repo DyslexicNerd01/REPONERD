@@ -1,5 +1,10 @@
 # **CHANGELOG**
 
+ > Version 1.3.7
+
+ - Updated BetterTruckHeals to 2.2.1
+ - Updated DeathHeadHopper to 2.1.6
+
  > Version 1.3.6
 
  - Updated DeathHopper to 2.1.5
