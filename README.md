@@ -81,11 +81,11 @@ Customize to your liking by adding or removing mods!
 ## 👤 Created by Nerd Developers
 
 Created by the **Nerd Developers** team for the REPO community.  
-![Nerd Developers Banner](https://github.com/DyslexicNerd01/REPONERD/blob/main/nerd_developers_banner_1600x400.png?raw=true)
 
+🖥 Visit us on [GitHub](https://github.com/Nerd-Developers) or view the [Thunderstore page](https://thunderstore.io/c/repo/p/NerdsDev).
 ---
 
 > 🎮 Play smart. Play weird. Play NERD. 🧠
 
 
-![Nerd Developers Banner](./nerd_developers_banner_1600x400.png)
+![Nerd Developers Banner](https://github.com/DyslexicNerd01/REPONERD/blob/main/nerd_developers_banner_1600x400.png?raw=true)
