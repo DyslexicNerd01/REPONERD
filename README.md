@@ -32,28 +32,28 @@ To install the REPO NERD Modpack:
 
 This modpack currently includes the following:
 
-- `BepInEx-BepInExPack` – Core modding framework  
-- `Rebateman-LateJoin` – Join games already in progress  
-- `Traktool-SharedUpgrades` – Share upgrade benefits  
-- `Spindles-MorePlayersImproved` – Expand max players  
-- `Cronchy-DeathHeadHopper` – Hopper death variant  
-- `flipf17-DeadTTS` – TTS support for deaths  
-- `Snowlance-NoDamageInShop` – Shop damage prevention  
-- `nickklmao-REPOConfig` – Config management  
-- `nickklmao-MenuLib` – UI toolkit for REPO  
-- `ebkr-r2modman` – Thunderstore mod manager  
-- `PandaSquad-BetterSprint` – Improved sprinting  
-- `BULLETBOT-MoreUpgrades` – More upgrade variety  
-- `LeviMods-HiddenManDiddy` – Adds mysterious entity  
-- `loaforc-loaforcsSoundAPI` – Sound API  
-- `loaforc-loaforcsSoundAPI_REPO` – REPO compatibility layer  
-- `YMC_MHZ-MoreHead` – Extra enemy variants  
-- `Zehs-LethalCompanyValuables` – Loot system enhancements  
-- `Lazarus-BetterTruckHeals` – Improved healing  
-- `Bengimi-BensCosmetics` – Cosmetic mod  
-- `RESET-MoreHeadPlus` – MoreHead expansions  
-- `Maygik-MoreHeadUtilities` – Utility extensions  
-- `Zehs-REPOLib` – REPO modding library
+- **BepInExPack** – Core modding framework  
+- **LateJoin** – Join games already in progress  
+- **SharedUpgrades** – Share upgrade benefits  
+- **MorePlayersImproved** – Expands player limits  
+- **DeathHeadHopper** – Hopper death variant  
+- **DeadTTS** – Text-to-speech death alerts  
+- **NoDamageInShop** – Prevents shop area damage  
+- **REPOConfig** – In-game config manager  
+- **MenuLib** – UI toolkit for REPO plugins  
+- **r2modman** – Mod manager by Thunderstore  
+- **BetterSprint** – Enhanced sprint mechanics  
+- **MoreUpgrades** – Additional upgrades  
+- **HiddenManDiddy** – Adds a mysterious NPC  
+- **loaforcsSoundAPI** – Universal sound API  
+- **loaforcsSoundAPI_REPO** – REPO integration for sound API  
+- **MoreHead** – More enemy head variants  
+- **LethalCompanyValuables** – Adds loot system  
+- **BetterTruckHeals** – Improves healing at the truck  
+- **BensCosmetics** – Visual cosmetic options  
+- **MoreHeadPlus** – Expands MoreHead with new content  
+- **MoreHeadUtilities** – Extra tools and support for MoreHead  
+- **REPOLib** – Dependency library for REPO modding
 
 ---
 
@@ -66,11 +66,7 @@ Customize to your liking by adding or removing mods!
 
 ## 📝 Changelog
 
-> *Sample log – update this section with new releases*
-
-- **v1.3.7** – Added `BetterTruckHeals` and updated `MoreHead` to v1.4.1  
-- **v1.3.6** – Minor compatibility improvements  
-- **v1.3.5** – First release on Thunderstore
+> This is a Placeholder :P
 
 ---
 
