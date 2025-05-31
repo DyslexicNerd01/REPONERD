@@ -81,7 +81,7 @@ Customize to your liking by adding or removing mods!
 ## 👤 Created by Nerd Developers
 
 Created by the **Nerd Developers** team for the REPO community.  
-Check us out on [GitHub](https://github.com/DyslexicNerd01) or the [Thunderstore page](https://thunderstore.io/c/repo/p/NerdsDev/REPO_NERD/).
+![Nerd Developers Banner](https://github.com/DyslexicNerd01/REPONERD/blob/main/nerd_developers_banner_1600x400.png?raw=true)
 
 ---
 
