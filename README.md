@@ -66,7 +66,7 @@ Customize to your liking by adding or removing mods!
 
 ## 📝 Changelog
 
-> This is a Placeholder :P
+> [Click for Changelog](https://github.com/DyslexicNerd01/REPONERD/blob/main/CHANGELOG.md)
 
 ---
 
