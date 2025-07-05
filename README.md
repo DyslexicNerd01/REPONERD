@@ -7,7 +7,7 @@ A community-focused R.E.P.O. modpack crafted for chaotic fun, rich customization
 
 ## 📦 Version
 
-**Current Version:** `1.3.7`  
+**Current Version:** `1.3.8`  
 🛠 *Still maintained and regularly updated!*
 
 ---
