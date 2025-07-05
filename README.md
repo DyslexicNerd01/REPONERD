@@ -66,7 +66,7 @@ Customize to your liking by adding or removing mods!
 
 ## 📝 Changelog
 
-> [Click for Changelog](https://github.com/DyslexicNerd01/REPONERD/blob/main/CHANGELOG.md)
+> [Click for Changelog](https://thunderstore.io/c/repo/p/NerdsDev/REPO_NERD/changelog/)
 
 ---
 
