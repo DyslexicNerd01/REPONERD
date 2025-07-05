@@ -1,5 +1,13 @@
 # **CHANGELOG**
 
+ > Version 1.3.8
+
+ - Updated DeathHeadHopper to 2.1.7
+ - Updated MenuLib to 2.5.0
+ - Updated RepoConfig to 1.2.3
+ - Updated BetterTruckHeals to 2.2.2
+ - Updated SoundAPI to 2.0.7
+
  > Version 1.3.7
 
  - Updated BetterTruckHeals to 2.2.1
